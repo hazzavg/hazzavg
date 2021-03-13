@@ -2,7 +2,7 @@
 #### Computer Games Programmer
 ![Computer Games Programmer](https://cdn.discordapp.com/attachments/716672130124873773/820390087690944532/github_banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm Harry from the United Kingdom, and I create Computer Game Frameworks. I enjoy a Challenge and I always have a Systematic Approach to Tasks! I'm also a Hobbyist 3D Artist as well as a Freelance Video Editor!
 
 Skills: HTML, CSS, C#
 
