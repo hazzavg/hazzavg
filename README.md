@@ -6,7 +6,7 @@
 I'm Harry from the United Kingdom, and I'm a Computer Games Programmer. I'm also a Hobbyist 3D Artist and Freelance Video Editor.
 I enjoy a Challenge as I approach Tasks with a Methodical and Systematic Mindset; to ensure that the Work is completed effectively!
 
-## Skills and Experience
+## Skills and Programming Experience
 ● 🖥️ C#
 
 ● 👂 Active Listener; Willing to hear out ways in which I can improve my work
