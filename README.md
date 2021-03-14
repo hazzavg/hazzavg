@@ -2,7 +2,8 @@
 
 
 # Harry Clark
-I'm Harry from the United Kingdom, and I create Computer Game Frameworks. I enjoy a Challenge and I always have a Systematic Approach to Tasks! I'm also a Hobbyist 3D Artist as well as a Freelance Video Editor!
+I'm Harry from the United Kingdom, and I create Computer Game Frameworks. I'm also a Hobbyist 3D Artist and Freelance Video Editor!
+I enjoy a Challenge as I approach Tasks with a Methodical and Systematic Mindset; to ensure that the Work is completed effectively!
 
 ## Skills and Experience
 ● 🖥️ C#
