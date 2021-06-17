@@ -4,7 +4,9 @@
 # Harry Clark
 
 Harry is an All-Rounded Individual who approaches Tasks with a Methodical and Systematic mindset
+
 He is also very inquistive in his approach to deducing how instances are put together
+
 Despite his all of his serious motives, Harry enjoys his work and commmunciates his ideas effectively
 
 ## Skills and Programming Experience
