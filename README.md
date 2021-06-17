@@ -1,4 +1,4 @@
-![Computer Games Programmer](https://media.discordapp.net/attachments/797467924012335114/820430081788739614/github_banner.png?width=1125&height=375)
+![Computer Games Programmer](https://cdn.discordapp.com/attachments/716672130124873773/855150098396479558/harry_github_banner.png)
 
 
 # Harry Clark
