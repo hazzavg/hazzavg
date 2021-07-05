@@ -19,7 +19,8 @@ Despite his all of his serious motives, Harry is able to communicate effectively
 ● 📘 Mathematical Prowess
 
 ● 🧠Inquistiveness; eager to learn new Skills and Techniques and deduce how things function
-##
+
+## 
 
 
 
