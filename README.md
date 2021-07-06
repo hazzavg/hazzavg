@@ -20,8 +20,6 @@ Despite his all of his serious motives, Harry is able to communicate effectively
 
 ● 🧠Inquistiveness; eager to learn new Skills and Techniques and deduce how things function
 
-## Examples of Work
-![Sonic Framework](https://github.com/hazzavg/hazzavg/blob/main/giphy.gif)
 
 
 
