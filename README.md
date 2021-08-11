@@ -10,7 +10,7 @@ He is also very inquistive in his approach to deducing how instances are put tog
 Despite his all of his serious motives, Harry is able to communicate effectively with peers to bring about the best for work!
 
 ## Skills and Programming Experience
-● 🖥️ C#
+● 🖥️ C#, Python
 
 ● 👂 Active Listener; Willing to hear out ways in which I can improve my work
 
