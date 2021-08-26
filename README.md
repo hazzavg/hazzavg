@@ -6,8 +6,7 @@
 Harry is an All-Rounded Individual who approaches Tasks with a Methodical and Systematic mindset
 
 He is also very inquistive in his approach to deducing how instances are put together
-
-Despite his all of his serious motives, Harry is able to communicate effectively with peers to bring about the best for work!
+Harry is also an excellent communicator; being able to communicate effectively with peers to bring about the best for work!
 
 ## Skills and Programming Experience
 ● 🖥️ C#, Python, HTML, CSS
