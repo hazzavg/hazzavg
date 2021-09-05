@@ -9,7 +9,7 @@ He is also very inquistive in his approach to deducing how instances are put tog
 Harry is also an excellent communicator; being able to communicate effectively with peers to bring about the best for work!
 
 ## Skills and Programming Experience
-● 🖥️ C#, Python, HTML, CSS
+● 🖥️ C#, Python
 
 ● 👂 Active Listener; Willing to hear out ways in which I can improve my work
 
